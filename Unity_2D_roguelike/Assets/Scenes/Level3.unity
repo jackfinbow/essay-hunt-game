@@ -647,7 +647,7 @@ PrefabInstance:
       objectReference: {fileID: 8302626131203690227, guid: 3fa3c084cacc540e89b1640404281334, type: 3}
     - target: {fileID: 361295072699937697, guid: 8d5665724161340848971bd9a2f58708, type: 3}
       propertyPath: distanceToEnd
-      value: 8
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 361295072699937697, guid: 8d5665724161340848971bd9a2f58708, type: 3}
       propertyPath: potentialCentres.Array.data[6]

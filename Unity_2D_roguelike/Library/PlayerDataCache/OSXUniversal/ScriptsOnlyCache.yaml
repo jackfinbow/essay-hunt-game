@@ -2051,4 +2051,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/MusicCutscene.unity
   - Assets/Scenes/ScienceCutscene.unity
   - Assets/Scenes/Victory Scene.unity
-  playerPath: /Users/Jack/Documents/EssayHunt.app
+  playerPath: /Users/Jack/Documents/EssayHuntDemo.app
